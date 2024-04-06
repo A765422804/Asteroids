@@ -43,8 +43,8 @@
 
 ## 图片展示
 
-![image](image\pic1.png)
+![image](image/pic1.png)
 
-![image](image\pic2.png)
+![image](image/pic2.png)
 
-![image](image\pic3.png)
+![image](image/pic3.png)
